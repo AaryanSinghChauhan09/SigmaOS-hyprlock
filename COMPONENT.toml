@@ -3,7 +3,7 @@ name = "SigmaOS-hyprlock"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "hyprlock component"
+description = "SigmaOS SigmaOS-hyprlock component"
 upstream = []
 
 [contract]
